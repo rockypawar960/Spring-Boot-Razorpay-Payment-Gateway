@@ -24,11 +24,10 @@ A simple payment integration built with **Spring Boot** and **Razorpay**. It cre
 ## Demo
 
 ### Checkout Page
-![](R:\Payment Gateway Project\Spring-Boot-Payment-Gateway-main\src\main\resources\static\Screenshot 2026-10-18 135029.png)
+![Checkout Page](src/main/resources/static/Screenshot%202026-10-18%20135029.png)
 
 ### Razorpay Payment Popup (UPI, Cards, EMI, Netbanking, Wallet, Pay Later)
-![](R:\Payment Gateway Project\Spring-Boot-Payment-Gateway-main\src\main\resources\static\Screenshot 2026-10-18 135010.png)
-
+![Razorpay Popup](src/main/resources/static/Screenshot%202026-10-18%20135010.png)
 
 ## Payment Flow
 
